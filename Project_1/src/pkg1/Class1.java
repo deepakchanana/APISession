@@ -12,6 +12,7 @@ public class Class1
 	public void deepak()  
 	{                                     
 		System.out.println("Welcome to all of you");
+		System.out.println("changes done");
 	}  
 	
 	public static void main(String[] args) 
